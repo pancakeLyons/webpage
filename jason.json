@@ -1,0 +1,14 @@
+{
+  "Jason": 
+    {
+      "firstname": "Jason",
+      "lastname": "Lyons",
+      "bio":
+        "21 years old, sometimes I act older, sometimes I act younger. My life goal is as follows: no matter where I go or what I do, I will remain light-hearted and creative like a child, while pursuing dignity through hard work like a driven adult.",
+      "tagline": "Electrical & Computer Engineer, Mathematician",
+      "LinkedIn": "https://www.linkedin.com/in/jason-lyons-6a0604186/",
+      "imgSrc": "cover_photo.jpeg",
+      "id": "Jason"
+    }
+  
+}

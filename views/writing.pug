@@ -1,0 +1,19 @@
+extends default
+block header
+  header.header.writingHead
+    h1 #{title}
+block content
+  title #{pagetitle}
+  link(rel='stylesheet', href='/css/style.css')
+  meta(name="viewport" content="width=device-width, initial-scale=1")
+  div.writing
+    each art in writings 
+        h1.photography-title(style= 'font-size: 600%')
+            | #{art.title}
+        h2.photography-location(style= 'font-size: 300%')
+            | #{art.description}
+        p.photography-origins
+            | I wrote this in  #{art.Date} br
+        a.button.writingLink(href=`${art.imgSrc}` target = "_blank")
+            | Read the full work here!
+        

@@ -1,0 +1,29 @@
+
+extends default
+block header
+  header.header.photographyHead
+    h1 #{title}
+block content
+  title #{pagetitle}
+  link(rel='stylesheet', href='/css/style.css')
+  meta(name="viewport" content="width=device-width, initial-scale=1")
+  each photo in photos    
+    div.photography
+      //- a(href = `/${photo.pth}`) 
+      //- img(src = 'url('/images/${photo.imgSrc}')')
+      //- img(src=require('${photo.imgSrc}'))
+      //- a(href=`/${photo.pth}` )
+      div.photography-image( style=` background: url('/images/${photo.imgSrc}') no-repeat ;  background-size:contain; background-position: center;background-color: rgb(228, 96, 125);` href = `/${photo.pth}`)
+      //- a(href=`/${photo.pth}` )
+          //- href = `/${photo.pth}`
+      //- div.flex-container(style=`background: url('/images/${photo.imgSrc}')`)
+      //-(style=`background: url('/images/${photo.imgSrc}') top center
+      //-no-repeat; background-size: cover; display:block;`)
+
+      //- div.photography-details
+      //-   h1.photography-title(style= 'font-size: 600%')
+      //-     | #{photo.description}
+      //-   h2.photography-location(style= 'font-size: 300%')
+      //-     | #{photo.Location}
+      //-   p.photography-origins
+      //-     | #{photo.photographer} Took this photo on  #{photo.Date}

@@ -1,0 +1,27 @@
+extends default
+
+block header
+
+block content
+  title #{pagetitle}
+  div.profile
+    div.profile-image(style=`background: url('/images/${j.imgSrc}') top center
+    no-repeat; background-size: cover;`)
+    div.profile-details
+      h1.profile-name(style= 'font-size: 600%')
+        | #{j.firstname} #{j.lastname}
+      h2.profile-tagline(style = 'font-size:300%')
+        | #{j.tagline}
+      p.profile-bio
+        | #{j.bio}
+      a.button.lifestory(href='/about')
+        | About Me
+      a.button.photographyLink(href='/photos')
+        | Photography
+      a.button.projects(href='/projects')
+        | Technical Projects  
+      a.button.writing(href='/writing')
+        | My Writing
+      a.button.LinkedIn(href=`${j.LinkedIn}` target = "_blank")
+        | Find me on LinkedIn
+      

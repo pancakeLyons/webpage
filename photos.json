@@ -1,0 +1,125 @@
+{
+    "photoBooth": [ 
+      {
+        "photographer": "I",
+        "description": "Torquoise Waters",
+        "Date": "March 13th, 2019",
+        "Location": "La Romana, Dominican Republic",
+        "imgSrc": "DR.jpeg",
+        "pth": "DR"
+      },
+      {
+        "photographer": "I",
+        "description": "Meliora! UofR, my Alma Mater",
+        "Date": "October 6th, 2018",
+        "Location": "Rochester, NY",
+        "imgSrc": "UofR.jpeg",
+        "pth": "UofR"
+      },
+      {
+        "photographer": "I",
+        "description": "Finger Lakes Gems",
+        "Date": "September 2nd, 2018",
+        "Location": "Taughannock Falls, NY",
+        "imgSrc": "taughannock.jpeg",
+        "pth": "taughannock"
+      },
+      {
+        "photographer": "I",
+        "description": "The First Source of Widespread Electricity",
+        "Date": "September 1st, 2018 ",
+        "Location": "Niagara Falls, Ontario",
+        "imgSrc": "NiagaraFalls.jpeg",
+        "pth": "NiagaraFalls"
+      },
+      {
+        "photographer": "I",
+        "description": "Sea Lions and Seals bronzing.",
+        "Date": "February 19th, 2018",
+        "Location": "La Jolla, California",
+        "imgSrc": "seals.jpeg",
+        "pth": "LaJolla"
+      },
+      {
+        "photographer": "I",
+        "description": "Beautiful sunset over the ocean",
+        "Date": "February 17th, 2018",
+        "Location": "Carlsbad, CA",
+        "imgSrc": "Carlsbad_Sunset1.jpeg",
+        "pth": "sunset"
+      },
+      {
+        "photographer": "I",
+        "description": "Red Sky at Night",
+        "Date": "January 30th, 2018",
+        "Location": "Carlsbad, CA",
+        "imgSrc": "Sunset2.jpeg",
+        "pth": "sunset2"
+      },
+      {
+        "photographer": "I",
+        "description": "Beautiful Hispanic Architecture",
+        "Date": "January 20th, 2018",
+        "Location": "Balboa Park, San Diego",
+        "imgSrc": "BalboaPark.jpeg",
+        "pth": "BalboaPark"
+      },
+      {
+        "photographer": "Dan 'Staniel' Berry",
+        "description": "Tee and I contemplating whether we should risk our lives hunting for clams.",
+        "Date": "June 9th, 2017",
+        "Location": "Martha's Vineyard",
+        "imgSrc": "clam_hunting.jpg",
+        "pth": "MarthasVineyard1"
+      },
+      
+      {
+        "photographer": "Dan 'Staniel' Berry",
+        "description": "My face when I realized I could swim to Great Britain.",
+        "Date": "June 9th, 2017",
+        "Location": "Martha's Vineyard",
+        "imgSrc": "red.jpg",
+        "pth": "MarthasVineyard2"
+      },
+      {
+        "photographer": "I",
+        "description": "An Abandoned Mercury Mine in Idaho",
+        "Date": "July 21st, 2016",
+        "Location": "Idaho Rockies",
+        "imgSrc": "AbandonedMercuryMine.jpg",
+        "pth": "Rockies"
+      },
+      {
+        "photographer": "I",
+        "description": "....oof",
+        "Date": "June, 2015",
+        "Location": "Dan \"Staniel\" Berry's, Pittsford NY",
+        "imgSrc": "bloody_ramy.png",
+        "pth": "bloodyRamy"
+      },
+      {
+        "photographer": "I",
+        "description": "Snowy Summitt",
+        "Date": "February 2nd, 2015",
+        "Location": "Pittsford, NY",
+        "imgSrc": "SnowyDoggo.jpeg",
+        "pth": "SnowySummitt"
+      },
+      {
+        "photographer": "Pittsford-Mendon High School",
+        "description": "Game Winner",
+        "Date": "January, 2015",
+        "Location": "Pittsford, NY",
+        "imgSrc": "GameWinner.jpg",
+        "pth": "gameWinner"
+      },
+      {
+        "photographer": "I",
+        "description": "Great Hikes have Great Views",
+        "Date": "August 6th, 2014",
+        "Location": "Ampersand Mountains, Adirondacks",
+        "imgSrc": "Ampersand.jpg",
+        "pth": "Ampersand"
+      }
+    ]
+  }
